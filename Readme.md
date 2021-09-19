@@ -1,5 +1,5 @@
 Name: Ieunn
 
-ID:12345678
+ID: 12345678
 
-![image](screenshot of history.png)
+![image](https://github.com/Ieunn/comp3111-lab1-2021f/blob/master/screenshot%20of%20history.png)
